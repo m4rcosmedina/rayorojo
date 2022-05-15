@@ -1,0 +1,28 @@
+.fondoGeneral {
+  background-color: black;
+}
+
+.navbar {
+  color: grey;
+}
+
+.listadoNav {
+  justify-content: space-between;
+}
+.somos,
+.hacemos {
+  font-size: xx-large;
+  font-weight: 500;
+  font-family: Helvetica, sans-serif;
+  margin-left: 10%;
+  margin-right: 10%;
+  color: white;
+}
+
+.imagenRayo {
+  margin-bottom: 100px;
+}
+
+.imagenRayo:hover {
+  transform: scale(1.03);
+}
